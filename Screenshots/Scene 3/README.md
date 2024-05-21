@@ -1,6 +1,9 @@
 <h1>HOUSE PARTY SCENE</h1>
+
 ![4](https://github.com/Akshatg720/Virtual-Reality-Project/assets/81717751/e05540a6-c916-42b2-90e9-f7064ad6aacb)
+
 ![3](https://github.com/Akshatg720/Virtual-Reality-Project/assets/81717751/6525c719-efff-4e22-b2af-99342abd9fc4)
+
 ![2](https://github.com/Akshatg720/Virtual-Reality-Project/assets/81717751/d2ec9a44-8dfd-4b38-a0b0-47f2959b5a19)
 ![Screenshot 2023-12-16 170310](https://github.com/Akshatg720/Virtual-Reality-Project/assets/81717751/fa0d2a9e-686b-450c-a7cd-e9897989196f)
 ![Screenshot 2023-12-16 170244](https://github.com/Akshatg720/Virtual-Reality-Project/assets/81717751/c171e890-5b1c-4e76-a706-fc97468a0976)
