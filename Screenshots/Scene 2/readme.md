@@ -1,4 +1,5 @@
 <h1>VIRTUAL BAR SCENE</h1>
-![3](https://github.com/Akshatg720/Virtual-Reality-Project/assets/81717751/18fb1715-3b86-4c1f-a667-be35e6152023)
-![2](https://github.com/Akshatg720/Virtual-Reality-Project/assets/81717751/b11c0741-00c7-4031-9ea8-110b8283cc32)
-![1](https://github.com/Akshatg720/Virtual-Reality-Project/assets/81717751/85eea7bb-57dd-4c16-a453-245507e4d5a1)
+
+![1](https://github.com/Akshatg720/Virtual-Reality-Project/assets/81717751/7cea8250-435b-41fc-9395-9354a0cfc0ab)
+![3](https://github.com/Akshatg720/Virtual-Reality-Project/assets/81717751/a418e7db-bec6-439f-9352-f05adff1a398)
+![2](https://github.com/Akshatg720/Virtual-Reality-Project/assets/81717751/bcd4b9cc-bc7c-430f-907c-6f8ec1c30aab)
