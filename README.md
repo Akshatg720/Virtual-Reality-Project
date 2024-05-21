@@ -7,7 +7,7 @@ This project aims to revolutionize the treatment of alcohol addiction through th
 
 ## Features:
 - **Immersive Treatment Scenarios:** Realistic VR environments that simulate real-world triggers to help users develop effective coping mechanisms.
-- **Interactive Health Education:** AR modules that provide comprehensive information on the health consequences of alcohol addiction, promoting informed decision-making.
+- **Interactive Health Education:** VR modules that provide comprehensive information on the health consequences of alcohol addiction, promoting informed decision-making.
 - **Personalized Interventions:** Tailored experiences based on individual user profiles to ensure targeted and effective treatment.
 - **User Feedback Integration:** Continuous improvement through iterative development based on real-world user feedback.
 
